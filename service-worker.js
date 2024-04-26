@@ -17,7 +17,6 @@ const cacheUrls = [
     '/index.html',
     '/styles.css',
     '/script.js',
-    'discord.png',
     'website.png',
     '/policy.html',
     '/terms.html',
